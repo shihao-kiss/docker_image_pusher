@@ -5,6 +5,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:5.7
 consul:1.15
-etcd:3.5.9
+bitnami/etcd:3.5.9
 nats:2.10-alpine
 centos:7
