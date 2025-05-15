@@ -8,3 +8,5 @@ consul:1.15
 bitnami/etcd:3.5.9
 nats:2.10-alpine
 centos:7
+wurstmeister/zookeeper:latest
+wurstmeister/kafka:2.13-2.8.1
