@@ -14,4 +14,5 @@
 #redis:7.2.4
 #bitnami/prometheus:3.3.1
 #jaegertracing/all-in-one:1.54
+#mysql canal
 canal/canal-server:latest
