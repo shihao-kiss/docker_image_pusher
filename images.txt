@@ -15,4 +15,4 @@
 #bitnami/prometheus:3.3.1
 #jaegertracing/all-in-one:1.54
 #mysql canal
-canal/canal-server:latest
+canal/canal-server:1.1.7
