@@ -13,4 +13,5 @@
 #sheepkiller/kafka-manager:1.3.1.8
 #redis:7.2.4
 #bitnami/prometheus:3.3.1
-jaegertracing/all-in-one:1.54
+#jaegertracing/all-in-one:1.54
+canal/canal-server:latest
